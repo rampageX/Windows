@@ -163,7 +163,7 @@
 
 | Item | Details |
 |------|---------|
-| **Version** | Windows 11 Consumer Editions Version 22H2 (Updated Jul 2025) 64-bit Multi-Edition |
+| **Version** | Windows 11 Consumer Editions Version 24H2 (Updated Jul 2025) 64-bit Multi-Edition |
 | **Filename** | `zh-cn_windows_11_consumer_editions_version_24h2_updated_july_2025_x64_dvd_a1f0681d.iso` |
 | **Size** | 7204851712 bytes (6.71 GB) |
 | **MD5** | `E9B4AE3F7E46075039CF82F5CF4BD838` |
@@ -176,7 +176,7 @@
 
 | Item | Details |
 |------|---------|
-| **Version** | Windows 11 Business Editions Version 22H2 (Updated Jul 2025) 64-bit Multi-Edition |
+| **Version** | Windows 11 Business Editions Version 24H2 (Updated Jul 2025) 64-bit Multi-Edition |
 | **Filename** | `zh-cn_windows_11_business_editions_version_24h2_updated_july_2025_x64_dvd_272dc7af.iso` |
 | **Size** | 7120996352 bytes (6.63 GB) |
 | **MD5** | `77180EF3EC4E681AB8A570BDC3AF6A7B` |
